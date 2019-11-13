@@ -1,33 +1,33 @@
 # main links
 main:
   - title: "About"
-    url: /docs/about
+    url: /about/
   - title: "Machine Learning"
-    url: /docs/deep-into-maching-learning/
+    url: /learning/
   - title: "SLAM"
-    url: /docs/SLAM/
+    url: /SLAM/
   - title: "Reference"
-    url: /docs/reference
+    url: /reference/
 
-docs:
-  - title: About
-    children:
-      - title: "About"
-        url: /docs/about
-  - title: Machine Learning
-    children:
-      - title: "Kaggle"
-        url: /docs/kaggle
-  - title: SLAM
-    chilren: 
-      - title: "Image Processing"
-        url: /docs/image_process
-      - title: "SLAM"
-        url: /docs/slam
-  - title: Reference
-    children:
-      - title: "Reference"
-        url: /docs/reference
+#docs:
+#  - title: About
+#    children:
+#      - title: "About"
+#        url: /docs/about
+#  - title: Machine Learning
+#    children:
+#      - title: "Kaggle"
+#        url: /docs/kaggle
+#  - title: SLAM
+#    chilren: 
+#     - title: "Image Processing"
+#      url: /docs/image_process
+#    - title: "SLAM"
+#      url: /docs/slam
+# - title: Reference
+#   children:
+#      - title: "Reference"
+#        url: /docs/reference
 #    children: 
 #      - title: "Reference"
 #        url: /docs/reference/
