@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "DxxYxxxKim's gitblog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "김도연(Eddie)"
+description              : "Researcher based on SLAM(Simultaneous Localization and Mapping"
 url                      : "https://archdo0909.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,11 +108,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "DxxYxxxKim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am currently a researcher at Start-up Company"
+  location         : "Seoul, Gangnam"
+  email            : archdo0909@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
