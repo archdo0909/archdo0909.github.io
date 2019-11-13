@@ -1,0 +1,19 @@
+# main links
+main:
+  - title: "Deep into Machine Learning"
+    url: /docs/deep-into-maching-learning/
+  - title: "Simultaneouse Localization and Mapping(SLAM)"
+    url: /docs/SLAM/
+  - title: "Reference"
+    url: /docs/reference
+#    children: 
+#      - title: "Reference"
+#        url: /docs/reference/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
