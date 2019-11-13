@@ -7,7 +7,6 @@ redirect_from:
 toc: true
 ---
 
-
 This pages for summary of machine laerning to deep learning
 
 ** Installing the theme
