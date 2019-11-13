@@ -1,11 +1,33 @@
 # main links
 main:
-  - title: "Deep into Machine Learning"
+  - title: "About"
+    url: /docs/about
+  - title: "Machine Learning"
     url: /docs/deep-into-maching-learning/
-  - title: "Simultaneouse Localization and Mapping(SLAM)"
+  - title: "SLAM"
     url: /docs/SLAM/
   - title: "Reference"
     url: /docs/reference
+
+docs:
+  - title: About
+    children:
+      - title: "About"
+        url: /docs/about
+  - title: Machine Learning
+    children:
+      - title: "Kaggle"
+        url: /docs/kaggle
+  - title: SLAM
+    chilren: 
+      - title: "Image Processing"
+        url: /docs/image_process
+      - title: "SLAM"
+        url: /docs/slam
+  - title: Reference
+    children:
+      - title: "Reference"
+        url: /docs/reference
 #    children: 
 #      - title: "Reference"
 #        url: /docs/reference/
