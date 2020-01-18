@@ -1,3 +1,11 @@
+  ---
+  layout: archive
+  permalink: /docs/learning/  
+  title: "Structure from Motion의 이해"
+  author_profile: true
+  ---
+
+
 ##Structure from Motion(sfm)의 이해
 
 OpenCV를 활용한 sfm에 대해서 논의하고자 함.
