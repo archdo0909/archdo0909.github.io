@@ -1,13 +1,17 @@
 # main links
 main:
-#  - title: "About"
-#    url: /posts/about/
+  - title: "About"
+    url: /posts/about/
   - title: "Machine Learning"
-    url: /welcome/
+    url: /posts/learning/
 #  - title: "SLAM"
 #    url: /posts/SLAM/
 #  - title: "Reference"
 #    url: /posts/reference/
+
+docs:
+  - title: "Macine Learning"
+    url: /posts/learning/
 
 #docs:
 #  - title: About
