@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Machine Learning"
     url: /posts/learning/
+  - title: "Programming"
+    url: /posts/programming
 #  - title: "SLAM"
 #    url: /posts/SLAM/
 #  - title: "Reference"
